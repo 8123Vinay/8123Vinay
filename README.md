@@ -10,7 +10,6 @@
   <i class="fa-brands fa-html5"></i>
   <p>HTML, CSS , JAVASCRIPT, C++</p>
   <p>React, NodeJs, Express, Redux</p>
-  <p>MongoDB </p>
 
 
 
