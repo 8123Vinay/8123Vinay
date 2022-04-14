@@ -17,6 +17,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/vinaykumar-daivajna-bb3506148/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn-Vinaykumar Daivajna%20-blue?style=flat-square&logo=linkedIn"></a>&nbsp;
-<a href="mailto:8123Vinay@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail"></a>
+<a href="mailto:8123Vinay@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail"></a>
 
 
