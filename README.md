@@ -8,7 +8,7 @@
 
 <h3> 🛠 &nbsp;Skills</h3>
   <i class="fa-brands fa-html5"></i>
-  <p>HTML, CSS , JAVASCRIPT, C++</p>
+  <p>Python, Machine Learning, Deep Learning, Statistics, Linear Algebra, HTML, CSS , JAVASCRIPT, C++</p>
   <p>React, NodeJs, Express, Redux</p>
 
 
