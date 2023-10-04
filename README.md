@@ -2,9 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<p>- 🤔 &nbsp; I am currently building full stack applications & learning Data structures and Algorithms</p>
-<p>- 🎓 &nbsp; I am a final year student at IISER PUNE </p>
-<p>_ 💼 &nbsp; Currently looking for internships to get real world expierience</p>.
+<p>- 🤔 &nbsp;I am currently working on flood prediction using deep learning algorithms</p>
+<p>- 🎓 &nbsp;I am a masters student at IISER Pune </p>
 
 <h3> 🛠 &nbsp;Skills</h3>
   <i class="fa-brands fa-html5"></i>
